@@ -1,0 +1,30 @@
+.fondo {
+    background-color: rgb(2, 122, 0);
+    padding: 1rem;
+}
+.inicio{
+    background-color: rgb(161, 0, 0);
+    border-radius: 6px;
+    padding: 2rem;
+    display: flex;
+    justify-self: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+    max-width: 25rem;
+}
+.card{
+    background-color: antiquewhite;
+    border-radius: 7px;
+    padding: 0.7rem;
+    position: relative;
+    justify-self: center;
+    width: 100%;
+
+}
+.footer{
+    display: flex;
+    justify-content:end;
+    margin-top: 0.5rem;
+}
